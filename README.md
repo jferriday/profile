@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Josh Ferriday
 
-You can use the [editor on GitHub](https://github.com/jferriday/profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Profile Image](./Assets/profile-photo.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Profile
+Hi, I'm Josh Ferriday. I'm a front-end developer based in Leeds, UK. I am developing my skills in HTML, CSS and JavaScript to build beautiful websites.
 
-### Markdown
+## Skills & Education
+I'm always improving my knowledge of **HTML**, **CSS** and **JavaScript** with an aim to build responsive and accessible sites. Recently I've been dipping my toes into **React**. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### FreeCodeCamp
+My initial foray into software development was through the Python course on FreeCodeCamp. While I'm now focused on web development, I've had the opportunity to work with Python and Jupyter notebooks.
 
-```markdown
-Syntax highlighted code block
+### Codecademy
+I'm currently working though the Full Stack Engineer course with Codecademy. It had given me exposure to using Git and GitHub, working with Node and NPM, developing responsive sites with HTML and CSS and building interactivity using vanilla JavaScript.
 
-# Header 1
-## Header 2
-### Header 3
+## Portfolio
+For past projects, visit my [portfolio](https://jferriday.github.io).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jferriday/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
